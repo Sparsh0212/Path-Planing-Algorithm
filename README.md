@@ -5,4 +5,4 @@
 -	Robot needs to decide which way to move based on shortest Distance Travelled and Manhattan Distance.
 -	After Reaching to the Goal, it needs to traverse the shortest path (put directions) taken by him to reach from Start to Goal Location.
 
-Test Cases are present in testCases folder where I have provided different Maze to find the shortest path and provided expected output and actual output files.
+Test Cases are present in testCases folder where I have provided different Maze to find the shortest path (from S to G) and provided expected output and actual output files.
